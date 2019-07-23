@@ -5,3 +5,5 @@
 @file:__init__.py.py
 @time: 2019/7/19
 """
+
+from .singly_linked_list import LinkList

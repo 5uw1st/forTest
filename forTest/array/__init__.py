@@ -5,3 +5,10 @@
 @file:__init__.py.py
 @time: 2019/7/19
 """
+
+
+class Array(list):
+    """
+    数组
+    """
+    pass
